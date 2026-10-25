@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+dataset/
+webapp/static/results/*
+!webapp/static/results/.gitkeep
+.vscode/
+.DS_Store
+Thumbs.db
